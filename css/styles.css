@@ -1,0 +1,38 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+.parent-div{
+  padding-top: 10px;
+  border-radius: 15px;
+  background-color: white;
+  width: 252px;
+  height: 400px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+.qrcode{
+  border-radius: 10px;
+  width: 232px;
+}
+h3{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+p{
+  color: hsl(220, 15%, 55%);
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 15px;
+}
+.attribution{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
